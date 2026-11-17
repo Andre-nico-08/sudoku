@@ -1,0 +1,6 @@
+{
+  "name": "AI Sudoku Vision & Tutor",
+  "description": "Web application multimodale per digitalizzare Sudoku cartacei tramite Gemini Vision, con suggerimenti logici progressivi, sintesi vocale, solutore ibrido e overlay AR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
